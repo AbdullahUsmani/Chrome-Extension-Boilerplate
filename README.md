@@ -12,6 +12,9 @@ npm run build
 ```
 This will create a _'dist'_ folder in the root directory which will have the bundled files. Then add the extension to Chrome from the _'dist'_ directory.
 
+To view the popup page (index.html in this case), open the following link in Chrome:
+_chrome-extension://<extension-ID>/index.html_
+
 (optional) During development, run the following command to watch and recompile whenever a file changes:
 ```sh
 npm run dev
