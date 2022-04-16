@@ -1,0 +1,10 @@
+{
+  "name": "Getting Started Example",
+  "author": "Abdullah",
+  "description": "Boilerplate for Chrome Extension with React and Tailwind!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
