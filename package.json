@@ -1,7 +1,8 @@
 {
-  "name": "chrome-extension-react-tailwind-boilerplate",
-  "version": "1.0.0",
-  "private": true,
+  "name": "@athreelabs/chromex-react-tailwind-webpack-starter",
+  "version": "1.0.2",
+  "private": false,
+  "bin": "./bin/cli.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",

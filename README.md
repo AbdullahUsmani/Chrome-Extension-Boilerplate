@@ -2,7 +2,12 @@
 Chrome Extension Boilerplate with React, Tailwind, Webpack
 
 ## Steps to setup:
-Clone the repo, open terminal in the project folder and run: 
+Clone the repo, or run the starter command:
+```sh
+npx @athreelabs/chromex-react-tailwind-webpack-starter <your-project-root-dir>
+```
+
+Open terminal in the project folder and run: 
 ```sh
 npm install
 ```
